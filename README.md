@@ -76,6 +76,9 @@ This is a repo to record my random reading history, i will also write some spark
 
 - [GAIA: A Benchmark for General AI Assistants](https://arxiv.org/pdf/2311.12983.pdf)
 
+#### Self-improvement / Data Synthesis
+
+- [Mitigating Tail Narrowing in LLM Self-Improvement via Socratic-Guided Sampling](https://arxiv.org/pdf/2411.00750)
 
 #### Self-critique / Self-rewarding
 
