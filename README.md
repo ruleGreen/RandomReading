@@ -1,6 +1,53 @@
 # Random Reading
 This is a repo to record my random reading history, i will also write some sparks about the paper randomly
 
+
+### o1 / DeepSeek-R1
+
+- [s1: Simple test-time scaling](https://arxiv.org/pdf/2501.19393.pdf) the potential of SFT data
+
+- [KIMI K1.5: SCALING REINFORCEMENT LEARNING WITH LLMS](https://arxiv.org/pdf/2501.12599v1)
+
+- https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero/blob/main/ORZ_paper.pdf
+
+- https://hkust-nlp.notion.site/simplerl-reason
+
+- https://efficient-unicorn-451.notion.site/Online-DPO-R1-Unlocking-Effective-Reasoning-Without-the-PPO-Overhead-1908b9a70e7b80c3bc83f4cf04b2f175
+
+- [Demystifying Long Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2502.03373.pdf)
+
+- [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)
+
+
+
+### Abstarct / Program Reasoning
+
+- [Conceptual and Unbiased Reasoning in Language Models](https://arxiv.org/pdf/2404.00205)
+
+- [ReasonFlux: Hierarchical LLM Reasoning via Scaling Thought Templates](https://arxiv.org/pdf/2502.06772.pdf)
+
+### Math
+
+- [rStar-Math: Small LLMs Can Master Math Reasoning with Self-Evolved Deep Thinking](https://arxiv.org/abs/2501.04519.pdf)
+
+- [Step-level Value Preference Optimization for Mathematical Reasoning]
+
+- [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning](https://arxiv.org/pdf/2203.14465.pdf)
+
+### Reward Model
+
+- [Rule Based Rewards for Language Model Safety](https://arxiv.org/pdf/2411.01111.pdf)
+
+- [Self-Generated Critiques Boost Reward Modeling for Language Models](https://arxiv.org/pdf/2411.16646.pdf)
+
+- [Critique Fine-Tuning: Learning to Critique is More Effective than Learning to Imitate](https://arxiv.org/abs/2501.17703.pdf)
+
+- [Generative Reward Models](https://arxiv.org/abs/2410.12832.pdf)
+
+- [SELF-EVOLVED REWARD LEARNING FOR LLMS](https://arxiv.org/pdf/2411.00418)
+
+- [Self-rewarding Language Models]
+
 ### Physics of Language Models
 
 - [ICML Tut: Physics of Language Models](https://www.youtube.com/watch?v=kf_eGgVtOcs)
@@ -27,6 +74,8 @@ This is a repo to record my random reading history, i will also write some spark
 
 
 ### Language Agents
+
+- [ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy](https://arxiv.org/pdf/2403.14589.pdf)
 
 - [Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization](https://arxiv.org/pdf/2402.17574.pdf)
 
@@ -62,6 +111,8 @@ This is a repo to record my random reading history, i will also write some spark
 - [ALFWorld: Aligning Text and Embodied Environments for Interactive Learning]
 
 - [Virtualhome: Simulating household activities via programs]
+
+- [Towards Efficient LLM Grounding for Embodied Multi-Agent Collaboration]
 
 
 ### Tool Learning
@@ -100,14 +151,23 @@ LLM Efficient Reasoner](https://arxiv.org/pdf/2403.19094.pdf)
 
 ### Role-playing
 
+- [In-Context Impersonation Reveals Large Language Models’ Strengths and Biases]  `the effects of persona`
+
+- [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/abs/2406.20094) :fire::fire:
+
+
 - [Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/pdf/2403.05217.pdf)
 
 
 ### Alignment / Reinforcement Learning
 
+- [RL-GPT: Integrating Reinforcement Learning and Code-as-policy] `code`
+
 - [Controllable Preference Optimization: Toward Controllable Multi-Objective Alignment](https://arxiv.org/pdf/2402.19085.pdf)
 
 - [Alignment for Honesty](https://arxiv.org/pdf/2312.07000.pdf)
+
+- [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training]
 
 ### Others
 
@@ -133,11 +193,27 @@ LLM Efficient Reasoner](https://arxiv.org/pdf/2403.19094.pdf)
 
 - [Locating and Editing Factual Associations in GPT](https://arxiv.org/abs/2202.05262.pdf)
 
+
 ### Knowledge Conflict
 
+- [Competition of Mechanisms: Tracing How Language Models Handle Facts and Counterfactuals](https://arxiv.org/pdf/2402.11655.pdf)
+
 - [Adaptive Chameleon or Stubborn Sloth: REVEALING THE BEHAVIOR OF LARGE LANGUAGE MODELS IN KNOWLEDGE CONFLICTS](https://arxiv.org/abs/2305.13300.pdf)
+
 
 
 ### Text-to-Image / Multi-modal
 
 - [IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models](https://arxiv.org/pdf/2308.06721)
+
+### Language Agents
+
+- [Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models](https://arxiv.org/pdf/2310.04406.pdf) `knowledge and reasoning` `code`
+
+- [Trial and Error: Exploration-Based Trajectory Optimization of LLM Agents](https://arxiv.org/pdf/2403.02502) [`code`](https://github.com/Yifan-Song793/ETO)
+
+- [GPTSwarm: Language Agents as Optimizable Graphs](https://arxiv.org/pdf/2402.16823#page=2.48.pdf)
+
+### Other Useful Resources
+
+- [Make Your Own Research Impact in AI](https://github.com/okhat/blog/blob/main/2024.09.impact.md)
