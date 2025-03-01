@@ -127,6 +127,9 @@ This is a repo to record my random reading history, i will also write some spark
 
 - [GAIA: A Benchmark for General AI Assistants](https://arxiv.org/pdf/2311.12983.pdf)
 
+#### Self-improvement / Data Synthesis
+
+- [Mitigating Tail Narrowing in LLM Self-Improvement via Socratic-Guided Sampling](https://arxiv.org/pdf/2411.00750)
 
 #### Self-critique / Self-rewarding
 
@@ -205,6 +208,7 @@ LLM Efficient Reasoner](https://arxiv.org/pdf/2403.19094.pdf)
 ### Text-to-Image / Multi-modal
 
 - [IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models](https://arxiv.org/pdf/2308.06721)
+
 
 ### Language Agents
 
