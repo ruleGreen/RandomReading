@@ -19,7 +19,6 @@ This is a repo to record my random reading history, i will also write some spark
 - [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/pdf/2501.12948)
 
 
-
 ### Abstarct / Program Reasoning
 
 - [Conceptual and Unbiased Reasoning in Language Models](https://arxiv.org/pdf/2404.00205)
@@ -35,6 +34,16 @@ This is a repo to record my random reading history, i will also write some spark
 - [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning](https://arxiv.org/pdf/2203.14465.pdf)
 
 ### Reward Model
+
+- [R-PRM: Reasoning-Driven Process Reward Modeling](https://arxiv.org/abs/2503.21295.pdf)
+
+- [Self-rewarding correction for mathematical reasoning](https://arxiv.org/pdf/2502.19613.pdf)
+
+- [AdaptiveStep: Automatically Dividing Reasoning Step through Model Confidence](https://arxiv.org/abs/2502.13943.pdf)
+
+- [Process-based Self-Rewarding Language Models](https://arxiv.org/pdf/2503.03746.pdf)
+
+- [AgentRM: Enhancing Agent Generalization with Reward Modeling](https://arxiv.org/pdf/2502.18407.pdf)
 
 - [Rule Based Rewards for Language Model Safety](https://arxiv.org/pdf/2411.01111.pdf)
 
@@ -74,6 +83,20 @@ This is a repo to record my random reading history, i will also write some spark
 
 
 ### Language Agents
+
+- [Agent AI: Surveying the Horizons of Multimodal Interaction](https://arxiv.org/pdf/2401.03568.pdf) :fire::fire::fire::fire:
+
+- [AGENT WORKFLOW MEMORY](https://arxiv.org/pdf/2409.07429.pdf)
+
+- [An Interactive Agent Foundation Model](https://arxiv.org/abs/2402.05929.pdf)
+
+- [Reinforcement Learning for Long-Horizon Interactive LLM Agents](https://arxiv.org/abs/2502.01600.pdf)
+
+- [Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models](https://arxiv.org/pdf/2310.04406.pdf) `knowledge and reasoning` `code`
+
+- [Trial and Error: Exploration-Based Trajectory Optimization of LLM Agents](https://arxiv.org/pdf/2403.02502) [`code`](https://github.com/Yifan-Song793/ETO)
+
+- [GPTSwarm: Language Agents as Optimizable Graphs](https://arxiv.org/pdf/2402.16823#page=2.48.pdf)
 
 - [ReAct Meets ActRe: When Language Agents Enjoy Training Data Autonomy](https://arxiv.org/pdf/2403.14589.pdf)
 
@@ -133,6 +156,8 @@ This is a repo to record my random reading history, i will also write some spark
 
 #### Self-critique / Self-rewarding
 
+- [Training Language Models to Self-Correct via Reinforcement Learning](https://arxiv.org/pdf/2409.12917.pdf)
+
 - [META-REWARDING LANGUAGE MODELS: Self-Improving Alignment with LLM-as-a-Meta-Judge](https://arxiv.org/pdf/2407.19594)
 
 - [Internal Consistency and Self-Feedback in Large Language Models: A Survey](https://arxiv.org/pdf/2407.14507)
@@ -151,13 +176,23 @@ LLM Efficient Reasoner](https://arxiv.org/pdf/2403.19094.pdf)
 
 - [FACTSCORE: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation](https://aclanthology.org/2023.emnlp-main.741.pdf)
 
+### Personalization
+
+- [FSPO: Few-Shot Preference Optimization of Synthetic Preference Data in LLMs Elicits Effective Personalization to Real Users](https://www.arxiv.org/pdf/2502.19312)
+
+- []
+
+### AI for Education
+
+- [TRAINING LLM-BASED TUTORS TO IMPROVE STUDENT LEARNING OUTCOMES IN DIALOGUES](https://arxiv.org/pdf/2503.06424.pdf)
+
+- [SocraticLM: Exploring Socratic Personalized Teaching with Large Language Models](https://openreview.net/pdf?id=qkoZgJhxsA)
 
 ### Role-playing
 
 - [In-Context Impersonation Reveals Large Language Models’ Strengths and Biases]  `the effects of persona`
 
 - [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://arxiv.org/abs/2406.20094) :fire::fire:
-
 
 - [Harnessing Multi-Role Capabilities of Large Language Models for Open-Domain Question Answering](https://arxiv.org/pdf/2403.05217.pdf)
 
@@ -209,14 +244,6 @@ LLM Efficient Reasoner](https://arxiv.org/pdf/2403.19094.pdf)
 
 - [IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models](https://arxiv.org/pdf/2308.06721)
 
-
-### Language Agents
-
-- [Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models](https://arxiv.org/pdf/2310.04406.pdf) `knowledge and reasoning` `code`
-
-- [Trial and Error: Exploration-Based Trajectory Optimization of LLM Agents](https://arxiv.org/pdf/2403.02502) [`code`](https://github.com/Yifan-Song793/ETO)
-
-- [GPTSwarm: Language Agents as Optimizable Graphs](https://arxiv.org/pdf/2402.16823#page=2.48.pdf)
 
 ### Other Useful Resources
 
